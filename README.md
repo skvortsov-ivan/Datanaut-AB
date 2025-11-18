@@ -1,5 +1,3 @@
-Visst, här är din information omformulerad till en rapportmall:
-
 ## 📅 Rapport - V.46
 
 | Aspekt | Detaljer |
@@ -27,3 +25,27 @@ Visst, här är din information omformulerad till en rapportmall:
 ---
 
 Skulle du vilja att jag lägger till eller ändrar några detaljer i denna rapport?
+
+## 📅 Rapport - V.47
+
+| Aspekt | Detaljer |
+| :--- | :--- |
+| **Rapportör och Datum** | **Ivan Skvortsov, 18:e November 2025** |
+| **Deltagare (Närvaro)** | **Ivan, Hande, Melvin och Vivienne** |
+| **Sprintmål (Veckans DoD)** | **Roller & mål för passet:** | Skapa ett ER diagram och normalisera den till 3NF. Skriv backlog med user stories och bryt ner i tasks 
+
+---
+
+### 🚀 Vad vi gjorde
+
+* **Roller och Organisation:** **Ivan** utsågs till rapportör. Ingen specifik kodansvarig eller *merge*-ansvarig utsågs då kodarbetet ännu inte påbörjats.
+* **ER-Diagram:** Uppdaterade ER-diagrammet och normaliserade till 3NF.
+* **Backlog med user stories:** **Hande** skapade en backlog för Datanaut AB i **Notion** som inkluderar *tasks* och flera olika vyer för projektet. Alla gruppmedlemmar delade upp och la in user stories i Notion.
+
+---
+
+### 🚧 Problem/Hinder
+
+* Inga större problem eller hinder rapporterades under denna planeringsfas.
+* En formell kodansvarig och *merge*-ansvarig saknas, vilket behöver fastställas när kodarbetet påbörjas.
+
