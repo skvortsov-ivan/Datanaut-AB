@@ -24,7 +24,7 @@
 
 ---
 
-Skulle du vilja att jag lägger till eller ändrar några detaljer i denna rapport?
+  
 
 ## 📅 Rapport - V.47
 
