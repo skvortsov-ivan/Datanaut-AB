@@ -49,3 +49,27 @@
 * Inga större problem eller hinder rapporterades under denna planeringsfas.
 * En formell kodansvarig och *merge*-ansvarig saknas, vilket behöver fastställas när kodarbetet påbörjas.
 
+## 📅 Rapport - V.48
+
+| Aspekt | Detaljer |
+| :--- | :--- |
+| **Rapportör och Datum** | **Hande Bengü, 25:e November 2025** |
+| **Deltagare (Närvaro)** | **Ivan, Hande, Melvin och Vivienne** |
+| **Sprintmål (Veckans DoD)** | **Roller & mål för passet:** | - Skapa databas i SSMS med tabeller och relationer.
+
+---
+
+### 🚀 Vad vi gjorde
+
+* **Roller och Organisation:** **Hande** var rapportör. **Ivan** var kodansvarig samt skapade databasen och tabeller i SSMS. Vivienne har uppdaterat ER-diagrammet för att ändra vissa ord som krockade med SQL:s nyckelord samt skapat en procedure för att kunna skapa nya projekt. Melvin har lagt dummydata in i databasen och skapade vissa view och procedure. 
+* **ER-Diagram:** Vissa entitets och attributnamn har ändrats eftersom de ursprungliga namnen krockade med SQL:s reserverade nyckelord.
+* **Databasen:** Varje entitet har nu en egen tabell i databasen med definitioner för attribute, primary key, foreign key och constraint. Dummydata finns.
+
+---
+
+### 🚧 Problem/Hinder
+
+* Inga större problem eller hinder rapporterades under denna planeringsfas.
+* Merge ansvarig saknas tills vi börjar ladda upp till Github; för tillfället finns allt endast på en teammedlems dator.
+
+
