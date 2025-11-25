@@ -61,7 +61,7 @@
 
 ### 🚀 Vad vi gjorde
 
-* **Roller och Organisation:** **Hande** var rapportör. **Ivan** var kodansvarig samt skapade databasen och tabeller i SSMS.**Vivienne** har uppdaterat ER-diagrammet för att ändra vissa ord som krockade med SQL:s nyckelord samt skapat en procedure för att kunna skapa nya projekt. **Melvin** har lagt dummydata in i databasen och skapade vissa view och procedure. 
+* **Roller och Organisation:** **Hande** var rapportör. **Ivan** var kodansvarig samt skapade databasen och tabeller i SSMS. **Vivienne** har uppdaterat ER-diagrammet för att ändra vissa ord som krockade med SQL:s nyckelord samt skapat en procedure för att kunna skapa nya projekt. **Melvin** har lagt dummydata in i databasen och skapade vissa view och procedure. 
 * **ER-Diagram:** Vissa entitets och attributnamn har ändrats eftersom de ursprungliga namnen krockade med SQL:s reserverade nyckelord.
 * **Databasen:** Varje entitet har nu en egen tabell i databasen med definitioner för attribute, primary key, foreign key och constraint. Dummydata finns.
 
