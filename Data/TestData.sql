@@ -52,7 +52,7 @@ VALUES
 (5, 'Tzatziki', 'Köttbullar');
 
 -- Insert Into Using Resource
-INSERT INTO UsingResource (UsingResourceId, FkResourceId, FkEmployeeId)
+INSERT INTO UsingResource (UsingResourceId, FkEmployeeResourceId, FkEmployeeId)
 VALUES
 (1, 1, 2),
 (2, 2, 5),
