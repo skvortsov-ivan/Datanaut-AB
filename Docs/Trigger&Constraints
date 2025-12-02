@@ -1,1 +1,39 @@
+Datanaut-AB Database Trigger Summary
 
+This file summarizes the six T-SQL triggers implemented on the Project Management database to enforce data integrity and track changes.
+
+TR_Project_ArchiveStatus:
+
+Function: Automatically sets the ProjectEndDate to the current system time (GETDATE()) when the ProjectStatus is changed to 'Archived' for the first time.
+
+Purpose: Ensures archived projects have an accurate closing timestamp.
+
+TR_Project_DateValidation:
+
+Function: Prevents INSERT or UPDATE operations if the ProjectEndDate is before the ProjectStartDate.
+
+Purpose: Enforces chronological integrity of project timelines.
+
+TR_Project_BudgetValidation:
+
+Function: Prevents INSERT or UPDATE operations if the Budget value is negative.
+
+Purpose: Enforces the business constraint that a budget must be non-negative.
+
+TR_TimeLogging_ProjectStatus:
+
+Function: Prevents logging new time entries (via the TimeLogging table) if the associated Project's status is 'Completed' or 'Archived'.
+
+Purpose: Enforces project closure and prevents activity against finished work. (Achieved by joining TimeLogging -> Report -> Project)
+
+TR_UsingResourceAllocation_ProjectStatus:
+
+Function: Attempts to prevent resource allocation if the related employee is assigned to a 'Completed' or 'Archived' project.
+
+Purpose: Resource control. (Note: This logic is overly broad and should ideally link the resource use directly to a specific project ID.)
+
+TR_Changes_Project (Audit Trail):
+
+Function: Logs all INSERT, UPDATE, and DELETE operations on the Project table into the Project_AuditLog table.
+
+Purpose: Provides a complete, future-proof history of all changes, capturing old and new row states as JSON objects for easy retrieval and maintenance.
