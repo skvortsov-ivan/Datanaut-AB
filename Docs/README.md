@@ -66,11 +66,11 @@
 * **Databasen:** Varje entitet har nu en egen tabell i databasen med definitioner för attribute, primary key, foreign key och constraint. Dummydata finns.
 
 ---
-## 📅 Rapport - V.48
+## 📅 Rapport - V.49
 
 | Aspekt | Detaljer |
 | :--- | :--- |
-| **Rapportör och Datum** | **Hande Bengü, 2 Decemeber 2025** |
+| **Rapportör och Datum** | **Melvin Danielsson, 2 Decemeber 2025** |
 | **Deltagare (Närvaro)** | **Ivan, Hande, Melvin och Vivienne** |
 | **Sprintmål (Veckans DoD)** | **Roller & mål för passet:** | - Skapa databas i SSMS med tabeller och relationer.
 
@@ -78,7 +78,7 @@
 
 ### 🚀 Vad vi gjorde
 
-* **Roller och Organisation:** **Melvin** var rapportör. **Vivienne** var kodansvarig samt skapade databasen och tabeller i SSMS. **Vivienne** har uppdaterat ER-diagrammet för att ändra vissa ord som krockade med SQL:s nyckelord samt skapat en procedure för att kunna skapa nya projekt. **Ivan** var merge ansvarig. **Melvin** har gjort views och procedures in i databasen.
+* **Roller och Organisation:** **Melvin** var rapportör. **Vivienne** var kodansvarig samt skapade databasen och tabeller i SSMS. **Vivienne** har uppdaterat ER-diagrammet för att ändra vissa ord som krockade med SQL:s nyckelord samt skapat en procedure för att kunna skapa nya projekt. **Ivan** var merge ansvarig. **Melvin och Ivan** har gjort views och procedures in i databasen. Vivi och Hande fixade triggers.
 * **ER-Diagram:** Vissa entitets och attributnamn har ändrats eftersom de ursprungliga namnen krockade med SQL:s reserverade nyckelord.
 * **GITHUB Repo:** Vi fixade folder strukturen och la in en extra folder för queries och la in lite scripts in i folders.
 
