@@ -70,7 +70,7 @@
 
 | Aspekt | Detaljer |
 | :--- | :--- |
-| **Rapportör och Datum** | **Hande Bengü, 25:e November 2025** |
+| **Rapportör och Datum** | **Hande Bengü, 2 Decemeber 2025** |
 | **Deltagare (Närvaro)** | **Ivan, Hande, Melvin och Vivienne** |
 | **Sprintmål (Veckans DoD)** | **Roller & mål för passet:** | - Skapa databas i SSMS med tabeller och relationer.
 
