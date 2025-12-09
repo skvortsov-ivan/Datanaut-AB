@@ -88,4 +88,27 @@
 
 * Inga större problem eller hinder rapporterades under denna planeringsfas.
 
+---
+## 📅 Rapport - V.50
+
+| Aspekt | Detaljer |
+| :--- | :--- |
+| **Rapportör och Datum** | **Vivienne Bengtsson, 9 Decemeber 2025** |
+| **Deltagare (Närvaro)** | **Ivan, Hande, Melvin och Vivienne** |
+| **Sprintmål (Veckans DoD)** | **Roller & mål för passet:** | - Implementera dataåtkomst med Entity Framework.
+
+---
+
+### 🚀 Vad vi gjorde
+
+* **Roller och Organisation:** **Vivienne** var rapportör. **Ivan** var kodansvarig och skapade script för hela projektet samt scaffoldade databasen. **Hande** var merge ansvarig. **Melvin** hjälpte till när problem uppstod under scaffolding av databasen.
+* **GITHUB Repo:** Vi la till det fullständiga scripten för hela databasen och en procedure script som fattades.
+
+---
+
+### 🚧 Problem/Hinder
+
+* Inga större problem eller hinder rapporterades under denna planeringsfas.
+
+
 
