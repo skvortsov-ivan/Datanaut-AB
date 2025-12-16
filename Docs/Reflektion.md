@@ -1,10 +1,12 @@
-**Teamdynamik**: Hur samarbetet fungerade, roller och ansvar
 
 
-**Kommunikation**: Hur ni såg till att alla i teamet hade samsyn och förstod uppgiften
+**Teamdynamik**: Samarbetet fungerade bra. Under de två första veckorna fokuserade vi alla på att diskutera hur i detalj hur ER diagrammet skulle se ut. Syftet var att inte behöva refaktorera lika mycket som i tidigare uppgifter. De olika roller roterades efter varje boiler room session utan riktig systematik utan det va mer  att det behöver göras så en frivillig tog på sig det ansvaret. Ansvaret för resterande uppgifter varierade från session till session. I de tidigare sessionerna så var alla ansvariga för designen av ER diagrammet. I sessionerna efteråt då databasen skulle implementeras så diskuterade vi först hur vi ska implementera och sen fanns det alltid en som hade SSMS uppe på sin dator som utförde implementationen samt delade skärm till de andra. I boiler room session v.49 då alla tabeller och testdata var implementerade på varje dator så arbetade vi i par. 
 
 
-**Lärdomar**: Vad ni har lärt er om projektarbete i team
+**Kommunikation**: Samarbetet fungerade bra. Under de två första veckorna fokuserade vi alla på att diskutera hur i detalj hur ER diagrammet skulle se ut. Syftet var att inte behöva refaktorera lika mycket som i tidigare uppgifter. De olika roller roterades efter varje boiler room session utan riktig systematik utan det va mer  att det behöver göras så en frivillig tog på sig det ansvaret. Ansvaret för resterande uppgifter varierade från session till session. I de tidigare sessionerna så var alla ansvariga för designen av ER diagrammet. I sessionerna efteråt då databasen skulle implementeras så diskuterade vi först hur vi ska implementera och sen fanns det alltid en som hade SSMS uppe på sin dator som utförde implementationen samt delade skärm till de andra. I boiler room session v.49 då alla tabeller och testdata var implementerade på varje dator så arbetade vi i par. 
+
+
+**Lärdomar**: Vi har lärt oss att samarbeta effektivt genom att alltid vara tillgängliga för varandra när någon sitter fast. Vi har också utvecklat vår förmåga att som grupp analysera en mer öppen problembeskrivning och tillsammans omvandla den till tydliga, hanterbara och genomförbara arbetsuppgifter.
 
 
 **Lärdomar**: Vad ni tar med er från arbetsprocessen och att arbeta med ett fiktivt case
@@ -23,3 +25,4 @@ Nästa gång skulle vi fokusera på en effektivare uppdelning av arbetet och bä
 **Individuell reflektion**: Kort om varje teammedlems personliga lärdomar och bidrag
 FRÅN MELVIN: Jag insåg vikten av tydlig och proaktiv kommunikation. Jag lärde mig också genom att dela upp arbetet på ett strategiskt och effektivt sätt kan man dramatiskt öka projektets hastighet.
 VIVIENNE: Min största insikt var hur man kan använda användarcentrerad design för att prioritera funktioner i en produkt när tiden är begränsad.
+IVAN: Jag har lärt mig mycket mer om SQL och hur man ska designa projekt som använder databaser. Jag tror att vi alla kände att vår design var enkel att förstå och det gjorde så att vi alla kunde gå frammåt med samma vision om hur projektet skulle utföras. 
