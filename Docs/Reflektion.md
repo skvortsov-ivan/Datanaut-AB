@@ -60,6 +60,6 @@ Nästa gång skulle vi fokusera på en effektivare uppdelning av arbetet och bä
 
 **Kort om varje teammedlems personliga lärdomar och bidrag**
 
-* **FRÅN MELVIN:** Jag insåg vikten av tydlig och proaktiv kommunikation. Jag lärde mig också genom att dela upp arbetet på ett strategiskt och effektivt sätt kan man dramatiskt öka projektets hastighet.
+* **MELVIN:** Jag insåg vikten av tydlig och proaktiv kommunikation. Jag lärde mig också genom att dela upp arbetet på ett strategiskt och effektivt sätt kan man dramatiskt öka projektets hastighet.
 * **VIVIENNE:** Min största insikt var hur man kan använda användarcentrerad design för att prioritera funktioner i en produkt när tiden är begränsad.
 * **IVAN:** Jag har lärt mig mycket mer om SQL och hur man ska designa projekt som använder databaser. Jag tror att vi alla kände att vår design var enkel att förstå och det gjorde så att vi alla kunde gå frammåt med samma vision om hur projektet skulle utföras.
