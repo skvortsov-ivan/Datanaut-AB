@@ -96,33 +96,6 @@ These are mapped directly into EF Core as read-only entities.
 
 ---
 
-## ⚙️ Getting Started
-
-### 1️⃣ Database Setup
-
-Run the SQL scripts in this order:
-
-1. `Queries/DataNautDbSetup.sql`
-2. Schema files in `Schema/`
-3. Triggers in `Triggers/`
-4. Views in `Views/`
-5. Procedures in `Procedures/`
-6. Test data: `Data/TestData.sql`
-
-### 2️⃣ Configure Connection String
-
-⚠️ **Important:** Move the connection string out of source code before production.
-
-Update `DataNautDbContext` or use `appsettings.json`:
-
-```json
-"ConnectionStrings": {
-  "DefaultConnection": "Server=YOUR_SERVER;Database=DataNautDB;Trusted_Connection=True;"
-}
-```
-
----
-
 ## 🧪 Sample Data
 
 The project includes realistic sample data:
@@ -130,7 +103,7 @@ The project includes realistic sample data:
 * Active & completed projects
 * Employees with different roles
 * Time logs & reports
-* Resource allocations (yes, even **Tzatziki & Köttbullar** 🌯😉)
+* Resource allocations
 
 ---
 
@@ -143,21 +116,6 @@ Additional documentation is available in the `Docs/` folder:
 * 🔧 **Trigger&Constraints** – deep dive into database logic
 
 ---
-
-## 👨‍💻 Team & Learning Goals
-
-This project was created as part of a **.NET / Database design course**, focusing on:
-
-* Relational modeling & normalization
-* SQL constraints & triggers
-* EF Core database-first approach
-* Team-based development & design decisions
-
----
-
-## 📜 License
-
-This project is intended for **educational purposes**.
 
 ---
 
