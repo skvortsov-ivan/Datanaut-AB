@@ -2,6 +2,8 @@
 
 ## Teamdynamik
 
+**Hur samarbetet fungerade, roller och ansvar**
+
 Samarbetet fungerade bra. Under de två första veckorna fokuserade vi alla på att diskutera hur i detalj ER diagrammet skulle se ut. Syftet var att inte behöva refaktorera lika mycket som i tidigare uppgifter. De olika roller roterades efter varje boiler room session utan riktig systematik, gruppmedlemmar var proaktiva och roterade de olika rollerna naturligt.
 
 Ansvaret för resterande uppgifter varierade från session till session. I de tidigare sessionerna så var alla ansvariga för designen av ER diagrammet. I sessionerna efteråt då databasen skulle implementeras så diskuterade vi först hur vi ska implementera och sen fanns det alltid en som hade SSMS uppe på sin dator som utförde implementationen samt delade skärm till de andra. I boiler room session v.49 då alla tabeller och testdata var implementerade på varje dator så arbetade vi i par.
@@ -9,6 +11,8 @@ Ansvaret för resterande uppgifter varierade från session till session. I de ti
 ---
 
 ## Kommunikation
+
+**Hur ni såg till att alla i teamet hade samsyn och förstod uppgiften**
 
 Vi kommunicerade ganska väl också. När någon inte visste något så hjälpte alla till med att antingen förklara eller visa hur något fungerar. Utöver det var det generellt mycket diskussioner angående design där vi testade varandras ideér och där majoriteten bestämde om idén skulle implementeras eller inte.
 
@@ -32,7 +36,7 @@ Vi använde oss av konsensusbeslut efter öppen diskussion och debatt. Trots ini
 
 ## 🧠 Lärdomar
 
-**Generella lärdomar**
+**Vad ni har lärt er om projektarbete i team**
 
 * Vi har lärt oss att samarbeta effektivt genom att alltid vara tillgängliga för varandra när någon sitter fast.
 * Vi har också utvecklat vår förmåga att som grupp analysera en mer öppen problembeskrivning och tillsammans omvandla den till tydliga, hanterbara och genomförbara arbetsuppgifter.
