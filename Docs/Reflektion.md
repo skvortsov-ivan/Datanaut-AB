@@ -25,3 +25,64 @@ Nästa gång skulle vi fokusera på en effektivare uppdelning av arbetet och bä
 FRÅN MELVIN: Jag insåg vikten av tydlig och proaktiv kommunikation. Jag lärde mig också genom att dela upp arbetet på ett strategiskt och effektivt sätt kan man dramatiskt öka projektets hastighet.  
 VIVIENNE: Min största insikt var hur man kan använda användarcentrerad design för att prioritera funktioner i en produkt när tiden är begränsad.  
 IVAN: Jag har lärt mig mycket mer om SQL och hur man ska designa projekt som använder databaser. Jag tror att vi alla kände att vår design var enkel att förstå och det gjorde så att vi alla kunde gå frammåt med samma vision om hur projektet skulle utföras. 
+
+# 🚀 Projektutvärdering & Processreflektion
+
+Denna utvärdering sammanfattar teamets prestationer, processer och lärdomar under projektets gång.
+
+---
+
+## 👥 Teamdynamik & Roller
+
+Samarbetet i teamet var **mycket effektivt**. Vi fokuserade på tidig design för att säkerställa stabilitet och smidig implementering.
+
+* **Tidig Fokusering:** De första två veckorna ägnades åt detaljerad diskussion av **ER-diagrammet** för att undvika omfattande refaktorering senare.
+* **Flexibel Rollrotation:** Roller under *boiler room sessions* roterades naturligt och proaktivt av teammedlemmarna, utan en strikt systematisk plan.
+* **Ansvarsfördelning:**
+    * **Design:** Samtliga teammedlemmar ansvarade gemensamt för ER-diagrammets design.
+    * **Implementering:** Efter diskussion om implementeringsstrategi utfördes arbetet av en person i SSMS, som delade skärmen med resten av teamet.
+    * **V.49 Slutspurt:** Efter att alla tabeller och testdata var implementerade lokalt, övergick vi till att arbeta i par för snabbare slutförande.
+
+## 🗣️ Kommunikation & Beslutsfattande
+
+Kommunikationen var **öppen och stöttande**, vilket underlättade snabbt beslutsfattande.
+
+* **Stöd & Hjälp:** Teamet var snabbt med att hjälpa till när någon stötte på problem, antingen genom förklaringar eller demonstrationer.
+* **Designprocess:** Designidéer testades genom intensiv diskussion, där majoriteten fattade det slutgiltiga beslutet.
+* **Konsensusbeslut:** Beslut fattades genom **konsensus** efter öppen diskussion och debatt. Trots initialt divergerande åsikter (t.ex. gällande ER-design) lyckades vi alltid, tack vare en **respektfull attityd**, nå en integrerande och fungerande lösning.
+
+## ⏰ Tidshantering
+
+Planeringen fokuserade på att bryta ner uppgifterna för att maximera effektiviteten.
+
+* **Sprintmålsuppdelning:** Varje veckas sprintmål delades upp i mindre, hanterbara uppgifter.
+* **Resursoptimering:** Uppgifterna fördelades mellan teammedlemmarna baserat på **kompetens och intresse** för att uppnå högsta möjliga effektivitet.
+
+---
+
+## 🧠 Viktiga Lärdomar
+
+Vi tar med oss värdefulla insikter från processen och arbetet med ett fiktivt case:
+
+1.  **Effektivt Samarbete:** Vi har lärt oss att vara konsekvent tillgängliga för varandra när någon sitter fast.
+2.  **Från Öppenhet till Handling:** Vi utvecklade förmågan att analysera öppna problembeskrivningar och gemensamt omvandla dem till tydliga, hanterbara och genomförbara arbetsuppgifter.
+3.  **Verklighetsbaserad Design:** Arbetet gav träning i att fatta **beslut även när all information inte är tillgänglig** (då uppgifterna publicerades stegvis). Att designa en produkt för verklig användning var mycket givande och stärkte vårt **användarfokus**.
+
+## 🔄 Förbättringspotential (Nästa Gång)
+
+För att ytterligare optimera vår leverans skulle vi göra följande annorlunda:
+
+* Fokusera på en **effektivare uppdelning av arbetet**.
+* Bättre hantering av **uppgiftsberoenden**.
+
+Detta skulle möjliggöra en högre grad av **parallellisering** för att snabbare uppnå leveransmålen.
+
+---
+
+## 👤 Individuell Reflektion
+
+| Teammedlem | Lärdomar & Bidrag |
+| :--- | :--- |
+| **Melvin** | Insåg vikten av **tydlig och proaktiv kommunikation**. Lärde sig att strategisk arbetsdelning dramatiskt ökar projektets hastighet. |
+| **Vivienne** | Hennes största insikt var hur man använder **användarcentrerad design** för att prioritera funktioner vid tidsbegränsningar. |
+| **Ivan** | Fördjupad kunskap i **SQL och databasdesign**. Upplevde att den enkla designen ledde till en gemensam och tydlig vision för projektet. |
